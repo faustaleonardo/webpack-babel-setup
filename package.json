@@ -18,7 +18,11 @@
     "url": "https://github.com/faustaleonardo/webpack-setup/issues"
   },
   "homepage": "https://github.com/faustaleonardo/webpack-setup#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/preset-env": "^7.13.9",
+    "babel-loader": "^8.2.2",
     "webpack": "^5.24.3",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
